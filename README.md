@@ -1,6 +1,7 @@
-Hey! Albany Patriawan here. I'm a Software Engineering student at San Jose State University, planning on graduating in 2024.
+Hey! Albany Patriawan here. I'm a recent Software Engineer grad from San Jose State University.
 
-Check out my projects below! 
+Check out my portfolio to view demonstrations of my projects:
+https://albany.carrd.co/
 
 Contact:
 albanypatriawan@gmail.com
